@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
       "name": "Ms. Carrie Schuppe",
       "id": 2
     },
@@ -17,28 +13,20 @@
       "id": 4
     },
     {
-      "name": "Rosemary Gutkowski",
+      "name": "Jorge Sawayn",
       "id": 5
     },
     {
-      "name": "Esther West",
+      "name": "Wilbert Casper Sr.",
       "id": 6
     },
     {
-      "name": "Troy Pagac",
+      "name": "Emanuel Johns",
       "id": 7
     },
     {
-      "name": "Lyle Monahan",
+      "name": "Brandi Torp",
       "id": 8
-    },
-    {
-      "name": "Micheal Towne",
-      "id": 9
-    },
-    {
-      "name": "Salvador Kuhic",
-      "id": 10
     }
   ],
   "albums": [],
