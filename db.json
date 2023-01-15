@@ -1,5 +1,22 @@
 {
-    "users": [{"id": 1, "name": "Myra"}],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ms. Carrie Schuppe",
+      "id": 2
+    },
+    {
+      "name": "Rogelio Senger",
+      "id": 3
+    },
+    {
+      "name": "Maryann Harvey",
+      "id": 4
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
