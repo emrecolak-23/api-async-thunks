@@ -34,6 +34,26 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 2
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Wooden Towels",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Generic Rubber Hat",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Bronze Hat",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Modern Plastic Car",
+      "id": 14
     }
   ],
   "photos": []
