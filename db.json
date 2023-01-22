@@ -42,23 +42,13 @@
     },
     {
       "userId": 2,
-      "title": "Generic Rubber Hat",
+      "title": "Bespoke Wooden Shoes",
       "id": 12
     },
     {
       "userId": 2,
-      "title": "Licensed Bronze Hat",
+      "title": "Practical Fresh Car",
       "id": 13
-    },
-    {
-      "userId": 2,
-      "title": "Modern Plastic Car",
-      "id": 14
-    },
-    {
-      "userId": 2,
-      "title": "Handcrafted Rubber Gloves",
-      "id": 15
     }
   ],
   "photos": []
